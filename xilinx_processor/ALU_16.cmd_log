@@ -1,0 +1,9 @@
+vhdtdtfi -lib work /media/BELGELER/Workspaces/Xilinx/processor/ALU_16.v -lang verilog -prj processor -o ALU_16.spl -module ALU_16 -template /opt/Xilinx/13.2/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 ALU_16.spl /media/BELGELER/Workspaces/Xilinx/processor/ALU_16.sym 
+vhdtdtfi -lang verilog -prj processor -o /media/BELGELER/Workspaces/Xilinx/processor/ALU_16.tfi -lib work /media/BELGELER/Workspaces/Xilinx/processor//ALU_16.v -module ALU_16 -template /opt/Xilinx/13.2/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lib work /media/BELGELER/Workspaces/Xilinx/processor/ALU_16.v -lang verilog -prj processor -o ALU_16.spl -module ALU_16 -template /opt/Xilinx/13.2/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 ALU_16.spl /media/BELGELER/Workspaces/Xilinx/processor/ALU_16.sym 
+vhdtdtfi -lang verilog -prj processor -o /media/BELGELER/Workspaces/Xilinx/processor/ALU_16.tfi -lib work /media/BELGELER/Workspaces/Xilinx/processor//ALU_16.v -module ALU_16 -template /opt/Xilinx/13.2/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lib work /media/BELGELER/Workspaces/Xilinx/processor/ALU_16.v -lang verilog -prj processor -o ALU_16.spl -module ALU_16 -template /opt/Xilinx/13.2/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 ALU_16.spl /media/BELGELER/Workspaces/Xilinx/processor/ALU_16.sym 
+vhdtdtfi -lang verilog -prj processor -o /media/BELGELER/Workspaces/Xilinx/processor/ALU_16.tfi -lib work /media/BELGELER/Workspaces/Xilinx/processor//ALU_16.v -module ALU_16 -template /opt/Xilinx/13.2/ISE_DS/ISE//data/tfi.tft -deleteonerror 

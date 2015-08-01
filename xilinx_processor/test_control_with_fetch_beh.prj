@@ -1,0 +1,5 @@
+verilog work "ipcore_dir/ROM_4K.v"
+verilog work "IR_fetch.v"
+verilog work "control_unit.v"
+verilog work "test_control_with_fetch.v"
+verilog work "/opt/Xilinx/13.2/ISE_DS/ISE//verilog/src/glbl.v"

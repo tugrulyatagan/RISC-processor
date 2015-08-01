@@ -1,0 +1,25 @@
+# Output products list for <rrrrom>
+_xmsgs/pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+rrrrom.asy
+rrrrom.gise
+rrrrom.ngc
+rrrrom.sym
+rrrrom.v
+rrrrom.veo
+rrrrom.xco
+rrrrom.xise
+rrrrom_flist.txt
+rrrrom_ste/example_design/bmg_wrapper.vhd
+rrrrom_ste/example_design/rrrrom_top.ucf
+rrrrom_ste/example_design/rrrrom_top.vhd
+rrrrom_ste/example_design/rrrrom_top.xdc
+rrrrom_ste/implement/implement.sh
+rrrrom_ste/implement/planAhead_rdn.bat
+rrrrom_ste/implement/planAhead_rdn.sh
+rrrrom_ste/implement/planAhead_rdn.tcl
+rrrrom_ste/implement/xst.prj
+rrrrom_ste/implement/xst.scr
+rrrrom_xmdf.tcl
+summary.log

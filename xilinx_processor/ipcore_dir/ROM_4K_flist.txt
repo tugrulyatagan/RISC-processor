@@ -1,0 +1,26 @@
+# Output products list for <ROM_4K>
+ROM_4K.asy
+ROM_4K.gise
+ROM_4K.mif
+ROM_4K.ngc
+ROM_4K.sym
+ROM_4K.v
+ROM_4K.veo
+ROM_4K.xco
+ROM_4K.xise
+ROM_4K_flist.txt
+ROM_4K_ste\example_design\ROM_4K_top.ucf
+ROM_4K_ste\example_design\ROM_4K_top.vhd
+ROM_4K_ste\example_design\ROM_4K_top.xdc
+ROM_4K_ste\example_design\bmg_wrapper.vhd
+ROM_4K_ste\implement\implement.sh
+ROM_4K_ste\implement\planAhead_rdn.bat
+ROM_4K_ste\implement\planAhead_rdn.sh
+ROM_4K_ste\implement\planAhead_rdn.tcl
+ROM_4K_ste\implement\xst.prj
+ROM_4K_ste\implement\xst.scr
+ROM_4K_xmdf.tcl
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+summary.log

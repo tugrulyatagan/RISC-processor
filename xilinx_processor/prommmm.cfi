@@ -1,0 +1,11 @@
+# PROMGEN: Xilinx Prom Generator O.61xd
+# Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+SOFTWARE_VERSION O.61xd
+DATE            05/21/2015 - 16:14
+SOURCE          E:\Workspaces\Xilinx\processor\prommmm.mcs
+DEVICE          16384K
+DATA_WIDTH      1
+FILL_DATA       0xFF
+SIGNATURE       0xE88957B6
+START_ADDRESS   0x00000000 END_ADDRESS 0x0016A673 DIRECTION_UP   "E:/Workspaces/Xilinx/processor/new_memory.bit" 6slx45csg324

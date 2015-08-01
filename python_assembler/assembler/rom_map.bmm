@@ -1,0 +1,8 @@
+ADDRESS_SPACE instruction_rom RAMB16 [0x00000000:0x00001FFF]
+ BUS_BLOCK
+  uut/fetch_unit/instruction_rom/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[0].ram.r/s6_init.ram/SP.SIMPLE_PRIM18.ram [3:0] LOC = X1Y24;  // X2Y26;
+  uut/fetch_unit/instruction_rom/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[1].ram.r/s6_init.ram/SP.SIMPLE_PRIM18.ram [7:4] LOC = X1Y26;  // X2Y24;
+  uut/fetch_unit/instruction_rom/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[2].ram.r/s6_init.ram/SP.SIMPLE_PRIM18.ram [11:8] LOC = X2Y24;  // X1Y26;
+  uut/fetch_unit/instruction_rom/U0/xst_blk_mem_generator/gnativebmg.native_blk_mem_gen/valid.cstr/ramloop[3].ram.r/s6_init.ram/SP.SIMPLE_PRIM18.ram [15:12] LOC = X2Y26; // X1Y24;
+ END_BUS_BLOCK;
+END_ADDRESS_SPACE;

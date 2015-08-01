@@ -1,0 +1,8 @@
+[Inputs]
+clk
+[Outputs]
+=Led[7:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel Atlys_Spartan6
+

@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=E:\Workspaces\Xilinx\processor\impact.xsl
+OUTFILE=E:\Workspaces\Xilinx\processor\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=E:\Workspaces\Xilinx\processor
+LICENSE=iMPACT
+USER_INFO=iMPACT

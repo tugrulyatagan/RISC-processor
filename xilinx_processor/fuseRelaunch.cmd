@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/Workspaces/Xilinx/processor/test_processor_isim_beh.exe" -prj "E:/Workspaces/Xilinx/processor/test_processor_beh.prj" "work.test_processor" "work.glbl" 

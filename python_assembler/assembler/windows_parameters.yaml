@@ -1,0 +1,39 @@
+### Parameters for Windows ###
+
+# Assembly input file path
+assembly_input_file: E:\Workspaces/PyCharm-Python/assembler/demo/demo2.asm
+
+
+## Simulation
+# Logisim simulation memory file path for instructi
+
+
+
+
+
+7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+-9on ROM and data RAM
+logisim_rom_output_file: E:\Workspaces\Logisim\code.rom
+logisim_ram_output_file: E:\Workspaces\Logisim\data.ram
+
+# Xilinx ISIM simulation memory file path for instruction ROM and data RAM
+fpga_simulation_rom_output_file: E:\Workspaces\Xilinx\processor\ROM_4K.mif
+fpga_simulation_ram_output_file: E:\Workspaces\Xilinx\processor\RAM_4K.mif
+
+# Xilinx data2mem tool path
+xilinx_data2mem_path: C:\Xilinx\13.2\ISE_DS\ISE\bin\nt64\data2mem
+
+
+## FPGA
+# FPGA device top module bit file
+fpga_top_module_bit_input_file: E:\Workspaces\Xilinx\processor\atlys_spartan6.bit
+
+# FPGA memory map file for instruction ROM and data RAM
+fpga_rom_bmm_input_file:  E:\Workspaces\PyCharm-Python\assembler\rom_map.bmm
+fpga_ram_bmm_input_file:  E:\Workspaces\PyCharm-Python\assembler\ram_map.bmm
+
+# FPGA device result bit file
+fpga_modified_bit_output_file: E:\Workspaces\Xilinx\processor\new_memory.bit
+
+# Xilinx Impact tool path for program FPGA
+xilinx_impact_path: C:\Xilinx\13.2\ISE_DS\ISE\bin\nt64\impact.exe

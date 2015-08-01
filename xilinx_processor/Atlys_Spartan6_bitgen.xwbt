@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\Workspaces\Xilinx\processor\Atlys_Spartan6.ncd
+OUTFILE=E:\Workspaces\Xilinx\processor\Atlys_Spartan6.bit
+FAMILY=Spartan6
+PART=xc6slx45-3csg324
+WORKINGDIR=E:\Workspaces\Xilinx\processor
+LICENSE=WebPack
+USER_INFO=210839366_0_0_958

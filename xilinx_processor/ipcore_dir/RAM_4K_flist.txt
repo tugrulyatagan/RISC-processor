@@ -1,0 +1,26 @@
+# Output products list for <RAM_4K>
+RAM_4K.asy
+RAM_4K.gise
+RAM_4K.mif
+RAM_4K.ngc
+RAM_4K.sym
+RAM_4K.v
+RAM_4K.veo
+RAM_4K.xco
+RAM_4K.xise
+RAM_4K_flist.txt
+RAM_4K_ste\example_design\RAM_4K_top.ucf
+RAM_4K_ste\example_design\RAM_4K_top.vhd
+RAM_4K_ste\example_design\RAM_4K_top.xdc
+RAM_4K_ste\example_design\bmg_wrapper.vhd
+RAM_4K_ste\implement\implement.sh
+RAM_4K_ste\implement\planAhead_rdn.bat
+RAM_4K_ste\implement\planAhead_rdn.sh
+RAM_4K_ste\implement\planAhead_rdn.tcl
+RAM_4K_ste\implement\xst.prj
+RAM_4K_ste\implement\xst.scr
+RAM_4K_xmdf.tcl
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+summary.log

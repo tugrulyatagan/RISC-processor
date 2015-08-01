@@ -1,0 +1,14 @@
+[Inputs]
+=ALU_Data_In1[15:0]=
+=ALU_Data_In2[15:0]=
+=ALU_Control[7:0]=
+[Outputs]
+N
+Z
+C
+V
+=ALU_Data_Out[15:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel ALU_16
+

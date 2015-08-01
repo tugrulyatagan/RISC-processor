@@ -1,0 +1,32 @@
+### Parameters for Linux ###
+
+# Assembly input file path
+assembly_input_file: /media/BELGELER/Workspaces/PyCharm-Python/assembler/Codes/test5.asm
+
+
+## Simulation
+# Logisim simulation memory file path for instruction ROM and data RAM
+logisim_rom_output_file: /media/BELGELER/Workspaces/Logisim/code.rom
+logisim_ram_output_file: /media/BELGELER/Workspaces/Logisim/data.ram
+
+# Xilinx ISIM simulation memory file path for instruction ROM and data RAM
+fpga_simulation_rom_output_file: /media/BELGELER/Workspaces/Xilinx/processor/ROM_4K.mif
+fpga_simulation_ram_output_file: /media/BELGELER/Workspaces/Xilinx/processor/RAM_4K.mif
+
+# Xilinx data2mem tool path
+xilinx_data2mem_path: /opt/Xilinx/13.2/ISE_DS/ISE/bin/lin64/data2mem
+
+
+## FPGA
+# FPGA device top module bit file
+fpga_top_module_bit_input_file: /media/BELGELER/Workspaces/Xilinx/processor/Atlys_Spartan6.bit
+
+# FPGA memory map file for instruction ROM and data RAM
+fpga_rom_bmm_input_file: /media/BELGELER/Workspaces/PyCharm-Python/assembler/rom_map.bmm
+fpga_ram_bmm_input_file: /media/BELGELER/Workspaces/PyCharm-Python/assembler/ram_map.bmm
+
+# FPGA device result bit file
+fpga_modified_bit_output_file: /media/BELGELER/Workspaces/Xilinx/processor/new_memory.bit
+
+# Xilinx Impact tool path for program FPGA
+xilinx_impact_path: /opt/Xilinx/13.2/ISE_DS/ISE/bin/lin64/impact
