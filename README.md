@@ -7,7 +7,7 @@ Processor is designed on Xilinx ISE 13.2 with Verilog. Also processor simulated 
 
 Assembler for new instrction set is developed with Python 2.
 
-Detailed information, usage and examples can be found in project report. 
+Detailed information, usage and examples can be found in [Project report](report.pdf). 
 
 <b>For detailed information:</b>
 [Project report](report.pdf)
